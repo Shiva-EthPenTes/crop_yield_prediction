@@ -98,3 +98,9 @@ MongoDB 7.0: For storing unstructured data like satellite imagery metadata, sele
 ## Conclusion:
 
 This AI solution has the potential to transform rural farming by equipping farmers with tools to predict crop yields and make smarter agronomic decisions. By improving productivity and efficiency, it directly contributes to reducing hunger and improving livelihoods in rural communities.
+
+---
+
+
+
+<img width="1028" height="851" alt="image" src="https://github.com/user-attachments/assets/eba71672-06e2-42de-90a2-975271b63a48" />
